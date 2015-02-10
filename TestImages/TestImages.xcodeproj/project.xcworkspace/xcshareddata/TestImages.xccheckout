@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>07CAAD2F-F343-4473-A84E-1186E92E41C3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TestImages</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>58A0F386A35C3C9E39FAB67B77CA773F25EBAC0F</key>
+		<string>https://github.com/cycgits/decorationgit.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TestImages/TestImages.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>58A0F386A35C3C9E39FAB67B77CA773F25EBAC0F</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/cycgits/decorationgit.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>58A0F386A35C3C9E39FAB67B77CA773F25EBAC0F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>58A0F386A35C3C9E39FAB67B77CA773F25EBAC0F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>decorationgit</string>
+		</dict>
+	</array>
+</dict>
+</plist>
